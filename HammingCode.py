@@ -1,11 +1,7 @@
 
 """
-	Centro de Investigacion y Estudios Avanzados del IPN
-
-	Codificacion y compresion de datos.
-
-	Edgard Jose Diaz Tipcamu.
-	ediaz@tamps.convestav.mx
+	Autor: Edgard Jose Diaz Tipcamu.
+	e.diaz@nartsoft.com.mx
 	04 - abril - 2019
 """
 
